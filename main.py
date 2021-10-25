@@ -5,9 +5,12 @@ guildid = []
 
 import discord
 from discord.ext import commands
+# pip install -U git+https://github.com/Rapptz/discord.py.git (recommended)
+
 from discord_slash import SlashContext, SlashCommand
 from discord_slash.model import SlashCommandOptionType
 from discord_slash.utils.manage_commands import create_option, create_choice
+# pip install discord_py_slash_command
 
 channels = {} # ticket channels list
 
