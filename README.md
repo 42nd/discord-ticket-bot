@@ -1,1 +1,2 @@
-# dpy-slashcommand-ticket-bot
+# 개요
+discord.py로 만든 슬래쉬 커맨드 티켓 봇 입니다.
